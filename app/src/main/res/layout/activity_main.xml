@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#bbbbbb"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/enter_your_details"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.23"
+            android:text="Everything is confidential"
+            tools:ignore="HardcodedText,InefficientWeight"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:textStyle="italic"/>
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:ems="10"
+            android:hint="@string/name"
+            android:inputType="textPersonName"
+            tools:targetApi="o" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:ems="10"
+            android:hint="@string/email"
+            android:inputType="textPersonName"
+            tools:targetApi="o" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/phone"
+            android:importantForAutofill="no"
+            android:inputType="textPassword"
+            tools:ignore="UnusedAttribute" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:ems="10"
+            android:hint="@string/gnder"
+            android:inputType="textPassword"
+            tools:ignore="UnusedAttribute" />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/photo"
+ android:contentDescription="@string/myImage"/>
+
+        <Button
+            android:id="@+id/upload"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:longClickable="true"
+            android:layout_gravity="center_horizontal"
+
+            android:text="@string/camera"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSelectHandleLeft="@drawable/ic_launcher_background"
+            android:textSize="18sp"
+            tools:padding="15dp" />
+
+
+
+        <Button
+            android:id="@+id/Submit"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:longClickable="true"
+
+            android:text="@string/submit"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSelectHandleLeft="@drawable/ic_launcher_background"
+            android:textSize="24sp"
+            tools:padding="15dp"/>
+
+    </LinearLayout>
+</RelativeLayout>

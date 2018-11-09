@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/262c27681cadd1073c42fd3e595d5126/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/enemy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6b2d9558952858dc780f2ea92e25e5f1/AndroidManifest.xml:2:1-11:12
+MERGED from [:apwlibrary] /home/enemy/Desktop/MyApplication3/apwlibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/35c9c694a026b6da739c4e47739febb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/632ce80e7c4a0f3a5dbeffd77ddc603c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/89db3bae18c75872d0299972335e597e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/49e8ff0d8d803f8f82f84859adcb9dcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1d18e1ba28716d594cfcd04deb6a2c89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7396cd83f6cf98b39f1a745cbcb60650/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e21b06cfc83a15a4f8697e6cf57ec108/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/611cb0af0030b5bc7395273caee976bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8eaf079802ad1bbbf8ff7a5a302639ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2ea38d792f1c80cc363ef5446d4bfbf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/19d8f2a60a8f8d99918f0adfed86cc5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c0cd97aa4997ba882502d45b9d2bf482/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e8abf4b187c853e989747326167d8dc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a903a4bf5c37bec4364c1155039893e3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5333e9f164d65fc027a62d8c68e3e7a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0f5ee2678cafa6f83b01caf034487012/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc76ee93e3bb82bb30ee51c8ab408a3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/97baf493a9f84c45b9d217ac66495e40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/44810fa8cf4b415d55de609012aa42be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/79110fe75918e03dd52809f1ea1746c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3469eaee6f1c6850cb44ea0a85c1421e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a0ef15e74b440b092a8e7e01a61523fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47049a625c17ff6e4fe70a1f8e8f329d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2eb5873118a90cb7fe130f83efeb509b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/18cb71043bc2cf0158c089f6d7ee1bb2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/enemy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6b2d9558952858dc780f2ea92e25e5f1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/enemy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6b2d9558952858dc780f2ea92e25e5f1/AndroidManifest.xml:9:5-20
+MERGED from [:apwlibrary] /home/enemy/Desktop/MyApplication3/apwlibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-20
+MERGED from [:apwlibrary] /home/enemy/Desktop/MyApplication3/apwlibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a903a4bf5c37bec4364c1155039893e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a903a4bf5c37bec4364c1155039893e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5333e9f164d65fc027a62d8c68e3e7a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5333e9f164d65fc027a62d8c68e3e7a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a903a4bf5c37bec4364c1155039893e3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.enemy.myapplication.MainActivity
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/262c27681cadd1073c42fd3e595d5126/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/262c27681cadd1073c42fd3e595d5126/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/enemy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6b2d9558952858dc780f2ea92e25e5f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/enemy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6b2d9558952858dc780f2ea92e25e5f1/AndroidManifest.xml:5:5-7:41
+MERGED from [:apwlibrary] /home/enemy/Desktop/MyApplication3/apwlibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-43
+MERGED from [:apwlibrary] /home/enemy/Desktop/MyApplication3/apwlibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/35c9c694a026b6da739c4e47739febb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/35c9c694a026b6da739c4e47739febb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/632ce80e7c4a0f3a5dbeffd77ddc603c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/632ce80e7c4a0f3a5dbeffd77ddc603c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/89db3bae18c75872d0299972335e597e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/89db3bae18c75872d0299972335e597e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/49e8ff0d8d803f8f82f84859adcb9dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/49e8ff0d8d803f8f82f84859adcb9dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1d18e1ba28716d594cfcd04deb6a2c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1d18e1ba28716d594cfcd04deb6a2c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7396cd83f6cf98b39f1a745cbcb60650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7396cd83f6cf98b39f1a745cbcb60650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e21b06cfc83a15a4f8697e6cf57ec108/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e21b06cfc83a15a4f8697e6cf57ec108/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/611cb0af0030b5bc7395273caee976bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/611cb0af0030b5bc7395273caee976bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8eaf079802ad1bbbf8ff7a5a302639ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8eaf079802ad1bbbf8ff7a5a302639ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2ea38d792f1c80cc363ef5446d4bfbf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2ea38d792f1c80cc363ef5446d4bfbf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/19d8f2a60a8f8d99918f0adfed86cc5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/19d8f2a60a8f8d99918f0adfed86cc5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c0cd97aa4997ba882502d45b9d2bf482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c0cd97aa4997ba882502d45b9d2bf482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e8abf4b187c853e989747326167d8dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e8abf4b187c853e989747326167d8dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a903a4bf5c37bec4364c1155039893e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a903a4bf5c37bec4364c1155039893e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5333e9f164d65fc027a62d8c68e3e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5333e9f164d65fc027a62d8c68e3e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0f5ee2678cafa6f83b01caf034487012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0f5ee2678cafa6f83b01caf034487012/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc76ee93e3bb82bb30ee51c8ab408a3b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bc76ee93e3bb82bb30ee51c8ab408a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/97baf493a9f84c45b9d217ac66495e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/97baf493a9f84c45b9d217ac66495e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/44810fa8cf4b415d55de609012aa42be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/44810fa8cf4b415d55de609012aa42be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/79110fe75918e03dd52809f1ea1746c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/79110fe75918e03dd52809f1ea1746c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3469eaee6f1c6850cb44ea0a85c1421e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3469eaee6f1c6850cb44ea0a85c1421e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a0ef15e74b440b092a8e7e01a61523fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a0ef15e74b440b092a8e7e01a61523fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47049a625c17ff6e4fe70a1f8e8f329d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47049a625c17ff6e4fe70a1f8e8f329d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2eb5873118a90cb7fe130f83efeb509b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/enemy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2eb5873118a90cb7fe130f83efeb509b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/18cb71043bc2cf0158c089f6d7ee1bb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/enemy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/18cb71043bc2cf0158c089f6d7ee1bb2/AndroidManifest.xml:20:5-44
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		ADDED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/enemy/Desktop/MyApplication3/app/src/main/AndroidManifest.xml

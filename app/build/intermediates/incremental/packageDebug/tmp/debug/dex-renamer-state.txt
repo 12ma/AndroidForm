@@ -1,0 +1,4 @@
+#Wed Nov 07 17:07:25 IST 2018
+base.0=/home/enemy/Desktop/MyApplication3/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="enter_your_details">Enter your details</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="gnder">Gnder</string>
+    <string name="camera">Camera</string>
+    <string name="submit">Submit</string>
+    <string name="myImage">myimage</string>
+
+</resources>
